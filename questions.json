@@ -1,0 +1,165 @@
+[
+    {
+        "question": "Where in an HTML document is the correct place to refer to an external stylesheet",
+        "choice1": "In the <footer> section",
+        "choice2": "In the <body> section",
+        "choice3": "In the <head> section",
+        "choice4": "At the end of the document",
+        "answer": 3
+    },
+    {
+        "question": "Choose correct CSS Syntax",
+        "choice1": "body{color:black}",
+        "choice2": "{body;color:black}",
+        "choice3": "body{color=black;}",
+        "choice4": "All of the above",
+        "answer": 1
+    },
+    {
+        "question": "Django is a ______ framework",
+        "choice1": "Javascript",
+        "choice2": "JQuery",
+        "choice3": "Python",
+        "choice4": "HTML",
+        "answer": 3
+    },
+    {
+        "question": "Inside which HTML element do we put the JavaScript?",
+        "choice1": "<script>",
+        "choice2": "<javascript>",
+        "choice3": "<js>",
+        "choice4": "<scripting>",
+        "answer": 1
+    },
+    {
+        "question": "How can you open a link in a browser",
+        "choice1": "<a href='url' new>",
+        "choice2": "<a href='url'target='_blank'>",
+        "choice3": "<a href='url' new_window>",
+        "choice4": "<a href='url'target='_new'>",
+        "answer": 2
+    },
+    {
+        "question": "Which language is used for web apps?",
+        "choice1": "Python",
+        "choice2": "Javascipt",
+        "choice3": "PHP",
+        "choice4": "All",
+        "answer": 1
+    },
+    {
+        "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+        "choice1": "<script href='xxx.js'>",
+        "choice2": "<script name='xxx.js'>",
+        "choice3": "<script src='xxx.js'>",
+        "choice4": "<script file='xxx.js'>",
+        "answer": 3
+    },
+    {
+        "question": "Which is the correct HTML for making a text area?",
+        "choice1": "<textarea>",
+        "choice2": "<input type='textbox'>",
+        "choice3": "<input type='textarea'>",
+        "choice4": "None of the Above",
+        "answer": 1
+    },
+    {
+        
+        "question": "React is a _________",
+        "choice1": "Library",
+        "choice2": "Language",
+        "choice3": "Framework",
+        "choice4": "All",
+        "answer": 3
+    },
+    {
+        
+        "question": "What does CSS stands for?",
+        "choice1": "Computer Style Sheets",
+        "choice2": "Colourful Style Sheets",
+        "choice3": "Creative Style Sheets",
+        "choice4": "Cascading Style Sheets",
+        "answer": 4
+    },
+    {
+        "question": "How do you write 'Hello World' in the alert box?",
+        "choice1": "msgBox('Hello World');",
+        "choice2": "alertBox('Hello World');",
+        "choice3": "msg('Hello World');",
+        "choice4": "alert('Hello World');",
+        "answer": 4
+    },
+    {
+        "question": "Which operator is used to assign a value to a variable?",
+        "choice1": "/",
+        "choice2": "*",
+        "choice3": "=",
+        "choice4": "-",
+        "answer": 3
+    },
+    {
+        
+        "question": "There are _______ main components of object oriented programming",
+        "choice1": "4",
+        "choice2": "2",
+        "choice3": "1",
+        "choice4": "6",
+        "answer": 1
+    },
+    {
+        "question": "Javascript is the same as Java.",
+        "choice1": "yes",
+        "choice2": "why not",
+        "choice3": "no",
+        "choice4": "maybe",
+        "answer": 3
+    },
+    {
+        "question": "Which language is used for styling web pages?",
+        "choice1": "JQuery",
+        "choice2": "HTML",
+        "choice3": "XML",
+        "choice4": "CSS",
+        "answer": 4
+    },
+    {
+        "question": "How can you make a numbered list?",
+        "choice1": "<ul>",
+        "choice2": "<ol>",
+        "choice3": "<nl",
+        "choice4": "<dl>",
+        "answer": 2
+    },
+    {
+        "question": "Choose the correct HTML element for the largest",
+        "choice1": "<head>",
+        "choice2": "<big>",
+        "choice3": "<h1>",
+        "choice4": "<h6>",
+        "answer": 3
+    },
+    {
+        "question": "Which HTML tag is used to define an internal style sheet?",
+        "choice1": "<script>",
+        "choice2": "<code>",
+        "choice3": "<style>",
+        "choice4": "<css>",
+        "answer": 3
+    },
+    {
+        "question": "Which one is not an object oriented programming language",
+        "choice1": "java",
+        "choice2": "C++",
+        "choice3": "C#",
+        "choice4": "C",
+        "answer": 4
+    },
+    {
+        "question": "Which is the correct HTML element for inserting a line break?",
+        "choice1": "<newline>",
+        "choice2": "<br>",
+        "choice3": "<break>",
+        "choice4": "<new>",
+        "answer": 2
+    }
+]
